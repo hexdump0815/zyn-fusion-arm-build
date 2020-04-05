@@ -10,6 +10,8 @@ but most probably the gcc flags will have to be adjusted:
 required packages to build:
 apt-get install build-essential git ruby libtool libmxml-dev automake cmake libfftw3-dev libjack-jackd2-dev liblo-dev libz-dev libasound2-dev mesa-common-dev libgl1-mesa-dev libglu1-mesa-dev libcairo2-dev libfontconfig1-dev bison python
 
+i'll update those notes as soon as i'll build zyn-fusion fresh again ...
+
 and here are some old notes from the raspbian build which i did for trying to use zyn-fusion headless on a pi-zero, which does not really work - but maybe this build is useable on a bigger raspberry pi? (untested)
 
 old raspbian notes:
